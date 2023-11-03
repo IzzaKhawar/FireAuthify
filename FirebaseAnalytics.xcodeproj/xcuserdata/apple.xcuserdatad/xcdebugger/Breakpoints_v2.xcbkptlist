@@ -78,10 +78,88 @@
             filePath = "FirebaseAnalytics/Authentication/PreSignInView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A84065F-3510-4ABA-A0DA-C2B6D203624E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseAnalytics/Authentication/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "SettingsViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0A84065F-3510-4ABA-A0DA-C2B6D203624E - 51c2590da83080fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FirebaseAnalytics.SettingsViewModel.updateEmail() async throws -&gt; ()"
+                  moduleName = "FirebaseAnalytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/sample/FirebaseAnalytics/FirebaseAnalytics/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "0A84065F-3510-4ABA-A0DA-C2B6D203624E - f592a4a54ad94bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FirebaseAnalytics.SettingsViewModel.updateEmail() async throws -&gt; ()"
+                  moduleName = "FirebaseAnalytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/sample/FirebaseAnalytics/FirebaseAnalytics/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "0A84065F-3510-4ABA-A0DA-C2B6D203624E - 19d50f37d609e4f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FirebaseAnalytics.SettingsViewModel.updateEmail() async throws -&gt; ()"
+                  moduleName = "FirebaseAnalytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/sample/FirebaseAnalytics/FirebaseAnalytics/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "0A84065F-3510-4ABA-A0DA-C2B6D203624E - a5d366d2f11d76f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FirebaseAnalytics.SettingsViewModel.updateEmail() async throws -&gt; ()"
+                  moduleName = "FirebaseAnalytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/sample/FirebaseAnalytics/FirebaseAnalytics/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

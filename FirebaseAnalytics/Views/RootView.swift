@@ -11,10 +11,10 @@ struct RootView: View {
     @State private var showSignInView : Bool = false
     init() {
         // Use this if NavigationBarTitle is with Large Font
-        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: UIColor.black]
+        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: UIColor.white]
         
         //Use this if NavigationBarTitle is with displayMode = .inline
-        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.black]
+        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.white]
     }
     
     var body: some View {
