@@ -1,2 +1,2 @@
-# FirebaseAnalytics
+# FireAuthify
 An App by using Firebase to perform certain Authentications
